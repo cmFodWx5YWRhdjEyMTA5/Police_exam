@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\raw\\custom.mp3",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\raw\\custom.mp3"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clap.mp3",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\raw\\clap.mp3"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\raw\\consumer_onesignal_keep.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\467d94681dfbf8ad96d400f1ba5adfe7db36af39\\output\\res\\raw\\consumer_onesignal_keep.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\raw\\click.mp3",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\raw\\click.mp3"
+    }
+]

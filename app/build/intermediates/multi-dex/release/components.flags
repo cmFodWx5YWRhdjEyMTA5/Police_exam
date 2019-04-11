@@ -1,0 +1,42 @@
+-injars 'E:\Ravi\police exam\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'E:\Ravi\police exam\app\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'D:\Android\sdk\build-tools\28.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'E:\Ravi\police exam\app\build\intermediates\multi-dex\release\components.flags'
+
+
+# view AndroidManifest.xml #generated:64
+-keep class com.tnpoliceexam.tamilnaduconstableexam.MyApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

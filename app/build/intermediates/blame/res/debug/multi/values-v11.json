@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "E:\\Ravi\\police exam\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 8,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 170,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 291
+                    }
+                }
+            }
+        ]
+    }
+]

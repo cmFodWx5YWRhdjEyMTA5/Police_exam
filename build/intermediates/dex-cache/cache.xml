@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="694a642670bddee011a52670fc77f018d2b731e3">
+        <dex dex="E:\Ravi\police exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c49b11be840f10573378e7d1d840fb9ca474b475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AndroidTeam\.android\build-cache\3a7292bf8aa0fd2c0d2356435cb6a6b428284bef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b91045039cbf8fabb7989999578a13659eb1749f">
+        <dex dex="E:\Ravi\police exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc6b69a77fda93a978c6c75e429c8337830e618d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AndroidTeam\.android\build-cache\ac78d0cf42dd3c655b55d39338b94e0ecd0abb10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="6217a7ffefe4c8501c7fe982acc87179370d31cc">
+        <dex dex="E:\Ravi\police exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c779445bbb0cf2cf352a779b0dd27b03212662fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AndroidTeam\.android\build-cache\46f25e36e9ffa858433adb9474132b6fb49a91fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c28bf64d45fdf812c7f1efe3304dd3df1e1a682d">
+        <dex dex="E:\Ravi\police exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2933379c0cf4c627216c2647da8cd1ccbdce516\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7a711415d19cd1d32658d3960128877791bdcf6e">
+        <dex dex="E:\Ravi\police exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcb6749d3f2c1f4042b4b9409f34a4bd22b2e052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AndroidTeam\.android\build-cache\29a7a26e97f64df28713f4b2dfd46a9d0d7cb66b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="47fad7a852da507191f2284281ff1cdb5896d888">
+        <dex dex="E:\Ravi\police exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc2e01a0ac00f4ab7b6b3ff22504d16cf36b83b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AndroidTeam\.android\build-cache\345a777acdadd463f2dfad77e99248c3bff0a65e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a0fc13bb175be92930227157fa21e88657caa803">
+        <dex dex="E:\Ravi\police exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3efdd500c2389166fa053de29c22aec342978ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="bd593fc702bfdb2111dc570d1cf48608db42bd37">
+        <dex dex="E:\Ravi\police exam\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9148d7401a712632e3b9347654286d881f5a15c3\classes.dex" />
+    </item>
+
+</items>

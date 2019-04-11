@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\release\\menu\\webview_action.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\menu\\webview_action.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_drawer.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    }
+]

@@ -1,0 +1,718 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:2:1-137:12
+	package
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:4:5-54
+		INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:5:5-45
+supports-screens
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:7:5-13:40
+	android:largeScreens
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:13:9-37
+	android:resizeable
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:11:9-34
+	android:anyDensity
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:8:9-34
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:16:5-79
+MERGED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\AndroidTeam\.android\build-cache\dfd10f20506e49831faeae7358c048449723f7f8\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\AndroidTeam\.android\build-cache\3a7292bf8aa0fd2c0d2356435cb6a6b428284bef\output\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:17:5-67
+MERGED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:17:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\AndroidTeam\.android\build-cache\dfd10f20506e49831faeae7358c048449723f7f8\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\AndroidTeam\.android\build-cache\86870f0c4342490340c88da51df40f2c3edef725\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\AndroidTeam\.android\build-cache\fbd49b46ad2a1619032a80bfc78179cde2b6f0b8\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\AndroidTeam\.android\build-cache\3a7292bf8aa0fd2c0d2356435cb6a6b428284bef\output\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:20:22-69
+application
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:23:5-135:19
+MERGED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:49:5-105:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] C:\Users\AndroidTeam\.android\build-cache\29a7a26e97f64df28713f4b2dfd46a9d0d7cb66b\output\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\AndroidTeam\.android\build-cache\710be4e4e8774a5dfac919b2f82b7a47b4d8fa56\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\AndroidTeam\.android\build-cache\0919ae2f5328a919185effff397167774295a5eb\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\AndroidTeam\.android\build-cache\6b30283bbf54dd1c1211b9ab271b327e3dbfc0a4\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-ads:15.0.1] C:\Users\AndroidTeam\.android\build-cache\aba11a67cfa01782e5c66c679c1f92227c4e0ddd\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\AndroidTeam\.android\build-cache\dfd10f20506e49831faeae7358c048449723f7f8\output\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\AndroidTeam\.android\build-cache\99807391c94ca39609096312859710bd3a81a224\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\AndroidTeam\.android\build-cache\72454aa7566680337995bdf16a541adbe33187f6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\AndroidTeam\.android\build-cache\86870f0c4342490340c88da51df40f2c3edef725\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\AndroidTeam\.android\build-cache\fbd49b46ad2a1619032a80bfc78179cde2b6f0b8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\AndroidTeam\.android\build-cache\4c96c387669fa89f9f95e11539efd3be17fb2fd9\output\AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\AndroidTeam\.android\build-cache\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\output\AndroidManifest.xml:22:5-20
+MERGED from [com.github.hotchemi:android-rate:1.0.1] C:\Users\AndroidTeam\.android\build-cache\d03e7358b3b8450932a2cc87ec74d49bfc0df856\output\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-invites:15.0.1] C:\Users\AndroidTeam\.android\build-cache\89e94e67eed80118fc1a8e92eafeae6b3768514e\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.firebase:firebase-dynamic-links:15.0.2] C:\Users\AndroidTeam\.android\build-cache\46f25e36e9ffa858433adb9474132b6fb49a91fe\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\AndroidTeam\.android\build-cache\3a7292bf8aa0fd2c0d2356435cb6a6b428284bef\output\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\AndroidTeam\.android\build-cache\714a9ea7a4236e020bb7e933c0250d1af268953b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\AndroidTeam\.android\build-cache\345a777acdadd463f2dfad77e99248c3bff0a65e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\AndroidTeam\.android\build-cache\02c2052330f524f8564311cbfe66465ba7562600\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\AndroidTeam\.android\build-cache\5b1a8ff1ef68876cf97d79dcc044c3d7efbf2305\output\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AndroidTeam\.android\build-cache\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\output\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AndroidTeam\.android\build-cache\1a69b360b1a8f091ca90e37e55af0c2ad5088a66\output\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AndroidTeam\.android\build-cache\f2e18ce9a326b1bb5f9ce399a059f623cc0e9d09\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AndroidTeam\.android\build-cache\fbe0f837a0e9a9c910b1e7d7d056bce64828f16b\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.vihtarb:tooltip:0.1.9] C:\Users\AndroidTeam\.android\build-cache\0b00fed9b606441828c4ac2a280b2b20fd65cdd6\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AndroidTeam\.android\build-cache\decf0446b9029a8454d591177925909f424b1607\output\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AndroidTeam\.android\build-cache\d8613f69ba68e9e08ca828c454a4c09317be7ed3\output\AndroidManifest.xml:22:5-23:19
+	android:label
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:27:9-35
+	android:supportsRtl
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:29:9-35
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\AndroidTeam\.android\build-cache\decf0446b9029a8454d591177925909f424b1607\output\AndroidManifest.xml:22:18-91
+	tools:overrideLibrary
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:32:9-57
+	android:hardwareAccelerated
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:30:9-44
+	android:allowBackup
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:26:9-43
+	android:largeHeap
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:28:9-33
+	android:theme
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:24:9-77
+uses-library#org.apache.http.legacy
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:34:9-36:40
+	android:required
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:35:13-50
+provider#android.support.v4.content.FileProvider
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:38:9-46:20
+	android:authorities
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:40:13-83
+	android:grantUriPermissions
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:42:13-47
+	android:exported
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:39:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:43:13-45:58
+	android:resource
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:45:17-55
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:44:17-67
+meta-data#com.onesignal.BadgeCount
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:47:9-49:39
+	android:value
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:48:13-52
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:51:9-53:52
+	android:value
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:52:13-69
+meta-data#com.onesignal.NotificationOpened.DEFAULT
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:54:9-56:39
+	android:value
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:56:13-36
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:55:13-68
+meta-data#com.google.android.gms.version
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:58:9-60:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AndroidTeam\.android\build-cache\fbe0f837a0e9a9c910b1e7d7d056bce64828f16b\output\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:60:13-66
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:59:13-58
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.SplashActivity
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:61:9-70:20
+	android:label
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:63:13-45
+	android:configChanges
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:64:13-98
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:62:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:65:13-69:29
+action#android.intent.action.MAIN
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:66:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:68:27-74
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.End_Splash
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:71:9-73:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:72:13-87
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.Padathidam
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:75:9-77:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:76:13-87
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.Sariyanathaikandupiti
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:79:9-81:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:80:13-98
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.District_name
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:83:9-86:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:86:13-49
+	android:hardwareAccelerated
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:85:13-48
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:84:13-90
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.All_detailes
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:87:9-89:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:89:13-49
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:88:13-89
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.Pdf_reder_1
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:90:9-92:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:91:13-88
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.Kovil_name
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:93:9-96:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:96:13-49
+	android:hardwareAccelerated
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:95:13-48
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:94:13-87
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.OddOneOut
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:97:9-99:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:98:13-86
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.HomeActivity
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:100:9-103:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:103:13-49
+	android:hardwareAccelerated
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:102:13-48
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:101:13-89
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.WebsiteActivity
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:104:9-106:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:105:13-92
+activity#com.tnpoliceexam.tamilnaduconstableexam.activity.SettingsActivity
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:107:9-109:52
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:108:13-93
+activity#com.google.android.gms.ads.AdActivity
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:111:9-114:64
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\AndroidTeam\.android\build-cache\dfd10f20506e49831faeae7358c048449723f7f8\output\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\AndroidTeam\.android\build-cache\dfd10f20506e49831faeae7358c048449723f7f8\output\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:113:13-122
+	android:theme
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:114:13-61
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:112:13-65
+activity#com.tnpoliceexam.tamilnaduconstableexam.ui.NotificationActivity
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:115:9-119:48
+	android:screenOrientation
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:118:13-49
+	android:hardwareAccelerated
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:117:13-47
+	android:theme
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:119:13-45
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:116:13-91
+activity#com.tnpoliceexam.tamilnaduconstableexam.ui.CustomeWebView
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:120:9-123:48
+	android:hardwareAccelerated
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:122:13-47
+	android:theme
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:123:13-45
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:121:13-85
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:129:9-131:55
+	android:value
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:131:13-52
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:130:13-58
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:132:9-134:37
+	android:value
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:134:13-34
+	android:name
+		ADDED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml:133:13-68
+uses-sdk
+INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] C:\Users\AndroidTeam\.android\build-cache\29a7a26e97f64df28713f4b2dfd46a9d0d7cb66b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\AndroidTeam\.android\build-cache\710be4e4e8774a5dfac919b2f82b7a47b4d8fa56\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\AndroidTeam\.android\build-cache\0919ae2f5328a919185effff397167774295a5eb\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\AndroidTeam\.android\build-cache\6b30283bbf54dd1c1211b9ab271b327e3dbfc0a4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-ads:15.0.1] C:\Users\AndroidTeam\.android\build-cache\aba11a67cfa01782e5c66c679c1f92227c4e0ddd\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:16.0.0] C:\Users\AndroidTeam\.android\build-cache\609ca3fbc319fa5c6644174a681c0ef3228c170a\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:customtabs:28.0.0] C:\Users\AndroidTeam\.android\build-cache\6603cf65bc132a3a46958908f73ffc708acc2f11\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\AndroidTeam\.android\build-cache\dfd10f20506e49831faeae7358c048449723f7f8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] C:\Users\AndroidTeam\.android\build-cache\99807391c94ca39609096312859710bd3a81a224\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] C:\Users\AndroidTeam\.android\build-cache\72454aa7566680337995bdf16a541adbe33187f6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\AndroidTeam\.android\build-cache\86870f0c4342490340c88da51df40f2c3edef725\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\AndroidTeam\.android\build-cache\fbd49b46ad2a1619032a80bfc78179cde2b6f0b8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\AndroidTeam\.android\build-cache\4c96c387669fa89f9f95e11539efd3be17fb2fd9\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:28.0.0] C:\Users\AndroidTeam\.android\build-cache\c75b17cd269318a72813cbc12009550c31c54f5a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\AndroidTeam\.android\build-cache\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\AndroidTeam\.android\build-cache\7cfcfee4f7dd5be2cadb3fd65d8791c04198f4e1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\AndroidTeam\.android\build-cache\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\AndroidTeam\.android\build-cache\c3ab59639c7f57271e2ab442b601b7e0f4ce2b9d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\AndroidTeam\.android\build-cache\cd0db1600c256cdba3335f29efcb1863574d8988\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\AndroidTeam\.android\build-cache\14ceebddb5dcbba7ff93e3be55a3767f52ebc7c8\output\AndroidManifest.xml:20:5-44
+MERGED from [jp.wasabeef:recyclerview-animators:2.3.0] C:\Users\AndroidTeam\.android\build-cache\ac78d0cf42dd3c655b55d39338b94e0ecd0abb10\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\AndroidTeam\.android\build-cache\8e54a7a731c9b11bc9b39f2da2a9a0c664d660d3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.github.hotchemi:android-rate:1.0.1] C:\Users\AndroidTeam\.android\build-cache\d03e7358b3b8450932a2cc87ec74d49bfc0df856\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-invites:15.0.1] C:\Users\AndroidTeam\.android\build-cache\89e94e67eed80118fc1a8e92eafeae6b3768514e\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:15.0.2] C:\Users\AndroidTeam\.android\build-cache\46f25e36e9ffa858433adb9474132b6fb49a91fe\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\AndroidTeam\.android\build-cache\3a7292bf8aa0fd2c0d2356435cb6a6b428284bef\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\AndroidTeam\.android\build-cache\714a9ea7a4236e020bb7e933c0250d1af268953b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\AndroidTeam\.android\build-cache\345a777acdadd463f2dfad77e99248c3bff0a65e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\AndroidTeam\.android\build-cache\02c2052330f524f8564311cbfe66465ba7562600\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\AndroidTeam\.android\build-cache\5b1a8ff1ef68876cf97d79dcc044c3d7efbf2305\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AndroidTeam\.android\build-cache\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AndroidTeam\.android\build-cache\1a69b360b1a8f091ca90e37e55af0c2ad5088a66\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\AndroidTeam\.android\build-cache\f2e18ce9a326b1bb5f9ce399a059f623cc0e9d09\output\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\AndroidTeam\.android\build-cache\fbe0f837a0e9a9c910b1e7d7d056bce64828f16b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\AndroidTeam\.android\build-cache\21f38ca579b29c29ade09c5591c1a5debab77476\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\AndroidTeam\.android\build-cache\040b2e7e17c2f3f99cfe23112205b1fea1338079\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\AndroidTeam\.android\build-cache\575874c88799721adf4c2628d06ba53e88130a67\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\AndroidTeam\.android\build-cache\486192216ba193dce782e54e0ac635b93a1af97b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\AndroidTeam\.android\build-cache\fb78c18ab44c7b8cebf02259f73f1e82c749f509\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\AndroidTeam\.android\build-cache\131bf11062b1c8f94331059131b81bb68758b5b0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\AndroidTeam\.android\build-cache\9f303f223281efba785789e8ce6c993b8649948b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\AndroidTeam\.android\build-cache\b303d509b5b13771402eed3c0254c5661f3a848e\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\AndroidTeam\.android\build-cache\31f8e86b0056de84ebe8a141b483b64b8a409264\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\AndroidTeam\.android\build-cache\ae00df2db90f6a029309d681a99b58def6fec799\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\AndroidTeam\.android\build-cache\3a463b1bc4b5f956dc121551b2a9997d4e56cf2a\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\AndroidTeam\.android\build-cache\7285e55cc97af372869699627598da1842cc6e1f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\AndroidTeam\.android\build-cache\08f4afeff397c6d2ac7228d0ec9cb0868e24e70a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\AndroidTeam\.android\build-cache\fed623952f121ff1ed18ec1ea5ca0163f669d9f3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\AndroidTeam\.android\build-cache\75944e6e403d5ae59fe091151721561a809e6de2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\AndroidTeam\.android\build-cache\fcb81c5400e19556f4dfc02a2678771b6ff724d2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\AndroidTeam\.android\build-cache\9f6a97913f66e9846bbf73d167fa778369cfecba\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\AndroidTeam\.android\build-cache\9f5a818b66ce3630d077be886904817893e6e16c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\AndroidTeam\.android\build-cache\13aaf5afb614624c7474e3069d04e8f734851f27\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\AndroidTeam\.android\build-cache\6c31aebdaa2d8d5523dd75b9e3690cec7d47d858\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\AndroidTeam\.android\build-cache\759358fab68a78ddd39d71f68ca460b1c98131e8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\AndroidTeam\.android\build-cache\48a01c0b6342f5b6701f4982315960f97bd1d7e2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\AndroidTeam\.android\build-cache\a83d924f9dc12a83335873847968af9a26197a70\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.vihtarb:tooltip:0.1.9] C:\Users\AndroidTeam\.android\build-cache\0b00fed9b606441828c4ac2a280b2b20fd65cdd6\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\AndroidTeam\.android\build-cache\decf0446b9029a8454d591177925909f424b1607\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\AndroidTeam\.android\build-cache\e59e31add6b8589cd35e7968076a08c932a09cf7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\AndroidTeam\.android\build-cache\d8613f69ba68e9e08ca828c454a4c09317be7ed3\output\AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.4] C:\Users\AndroidTeam\.android\build-cache\1b98b2c67229f717556d4c10d0495312538ce173\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:16.0.0] C:\Users\AndroidTeam\.android\build-cache\609ca3fbc319fa5c6644174a681c0ef3228c170a\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Ravi\police exam\app\src\main\AndroidManifest.xml
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:8:5-10:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:9:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:12:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:18:5-82
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\AndroidTeam\.android\build-cache\86870f0c4342490340c88da51df40f2c3edef725\output\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\AndroidTeam\.android\build-cache\fbd49b46ad2a1619032a80bfc78179cde2b6f0b8\output\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:18:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:19:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\AndroidTeam\.android\build-cache\3a7292bf8aa0fd2c0d2356435cb6a6b428284bef\output\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:24:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:30:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:32:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:33:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:33:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:34:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:35:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:35:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:36:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:36:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:37:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:37:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:38:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:39:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:39:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:40:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:40:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:41:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:41:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:42:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:42:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:43:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:44:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:44:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:45:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:46:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:46:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:47:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:50:9-52:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:52:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:51:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:54:9-56:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:56:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:55:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:58:9-68:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:60:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:59:13-62
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:63:13-67:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:63:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:64:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:64:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:66:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:66:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:69:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:69:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:71:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:71:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:72:9-74:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:73:13-61
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:75:9-77:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:76:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:78:9-80:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:80:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:79:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:81:9-83:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:83:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:82:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:84:9-86:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:86:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:85:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:88:9-90:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:90:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:89:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:92:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:92:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:94:9-99:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:94:19-62
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:96:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:97:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:100:9-104:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:100:19-63
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:101:13-103:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:102:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.6] C:\Users\AndroidTeam\.android\build-cache\467d94681dfbf8ad96d400f1ba5adfe7db36af39\output\AndroidManifest.xml:102:25-81
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.3] C:\Users\AndroidTeam\.android\build-cache\29a7a26e97f64df28713f4b2dfd46a9d0d7cb66b\output\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.3] C:\Users\AndroidTeam\.android\build-cache\29a7a26e97f64df28713f4b2dfd46a9d0d7cb66b\output\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.3] C:\Users\AndroidTeam\.android\build-cache\29a7a26e97f64df28713f4b2dfd46a9d0d7cb66b\output\AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.3] C:\Users\AndroidTeam\.android\build-cache\29a7a26e97f64df28713f4b2dfd46a9d0d7cb66b\output\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.3.3] C:\Users\AndroidTeam\.android\build-cache\29a7a26e97f64df28713f4b2dfd46a9d0d7cb66b\output\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.3] C:\Users\AndroidTeam\.android\build-cache\29a7a26e97f64df28713f4b2dfd46a9d0d7cb66b\output\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.3] C:\Users\AndroidTeam\.android\build-cache\29a7a26e97f64df28713f4b2dfd46a9d0d7cb66b\output\AndroidManifest.xml:32:25-75
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\AndroidTeam\.android\build-cache\4c96c387669fa89f9f95e11539efd3be17fb2fd9\output\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\AndroidTeam\.android\build-cache\4c96c387669fa89f9f95e11539efd3be17fb2fd9\output\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\AndroidTeam\.android\build-cache\4c96c387669fa89f9f95e11539efd3be17fb2fd9\output\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\AndroidTeam\.android\build-cache\4c96c387669fa89f9f95e11539efd3be17fb2fd9\output\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:26:13-76
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:15.0.2] C:\Users\AndroidTeam\.android\build-cache\bcdddf56c9d9fd7fab6265bd051b5bd7589dbfb2\output\AndroidManifest.xml:32:27-73
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\AndroidTeam\.android\build-cache\3a7292bf8aa0fd2c0d2356435cb6a6b428284bef\output\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\AndroidTeam\.android\build-cache\3a7292bf8aa0fd2c0d2356435cb6a6b428284bef\output\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:35:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\AndroidTeam\.android\build-cache\3a7292bf8aa0fd2c0d2356435cb6a6b428284bef\output\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\AndroidTeam\.android\build-cache\6e28e5f4b7bbccc6cafd214cc5f9aeed1adeb9c3\output\AndroidManifest.xml:49:13-87
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:38:13-78
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:41:13-43:29
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\AndroidTeam\.android\build-cache\0b07f91bea40f134e76d90fd5a5251c605bd07c4\output\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AndroidTeam\.android\build-cache\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\output\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AndroidTeam\.android\build-cache\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\output\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AndroidTeam\.android\build-cache\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\output\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\AndroidTeam\.android\build-cache\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\output\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AndroidTeam\.android\build-cache\1a69b360b1a8f091ca90e37e55af0c2ad5088a66\output\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AndroidTeam\.android\build-cache\1a69b360b1a8f091ca90e37e55af0c2ad5088a66\output\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AndroidTeam\.android\build-cache\1a69b360b1a8f091ca90e37e55af0c2ad5088a66\output\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AndroidTeam\.android\build-cache\1a69b360b1a8f091ca90e37e55af0c2ad5088a66\output\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\AndroidTeam\.android\build-cache\1a69b360b1a8f091ca90e37e55af0c2ad5088a66\output\AndroidManifest.xml:11:13-77

@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_blue1.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\border_blue1.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker_1.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\speaker_1.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep.jpg",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\sleep.jpg"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_copy.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\border_copy.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_good.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\rating_good.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\syllabus.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\syllabus.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whiteborder.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\whiteborder.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_background_selected.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\tab_background_selected.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kanavu.jpg",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\kanavu.jpg"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\questions.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\questions.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_tabs_default_indicator.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\drawable\\mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_timer.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_timer.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\placeholder.jpg",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\placeholder.jpg"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\num_bg.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\num_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\papers.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\papers.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_nav_rate.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_nav_rate.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_nav_setting.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_nav_setting.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\speaker.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_wrong_ans.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\txt_wrong_ans.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text.gif",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\text.gif"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\policeexamtext.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\policeexamtext.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color1.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\color1.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_favorite.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\rating_favorite.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_right_arrow.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_right_arrow.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_right_ans.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\txt_right_ans.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_bg.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mail.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_mail.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_circle.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\drawable\\ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\warning.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player_bg.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\player_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\decf0446b9029a8454d591177925909f424b1607\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color2.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\color2.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gift.gif",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\gift.gif"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\terms_and_conditions.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\terms_and_conditions.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_1.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\border_1.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner_1.jpg",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\banner_1.jpg"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_no_item.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_no_item.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logo.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\decf0446b9029a8454d591177925909f424b1607\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_checked_black.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_skyblue.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\border_skyblue.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_privacy.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_privacy.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notify.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_notify.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\decf0446b9029a8454d591177925909f424b1607\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_otherapps.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_otherapps.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_back.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_back.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exams.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\exams.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bg.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\tab_bg.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mtrl_snackbar_background.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\drawable\\mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_menu.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_facebook.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_facebook.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_background_unselected.xml",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\tab_background_unselected.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_nav_about.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_nav_about.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banner.jpg",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\banner.jpg"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\decf0446b9029a8454d591177925909f424b1607\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tips.gif",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\tips.gif"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.gif",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\next.gif"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\bd23c0ebe4e40a881d034c4a6a5f5cbd3d786e7e\\output\\res\\drawable\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reader.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\reader.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_coin.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\ic_coin.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yes_button.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\yes_button.png"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mtrl_chip_close_circle.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\366dc0286e86a332ff36d4bd296cc05f5f2f1a68\\output\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\AndroidTeam\\.android\\build-cache\\19f4c18c993ba1c2f3a430c9aadf55153f03c3f2\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Ravi\\police exam\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_button.png",
+        "source": "E:\\Ravi\\police exam\\app\\src\\main\\res\\drawable\\no_button.png"
+    }
+]
